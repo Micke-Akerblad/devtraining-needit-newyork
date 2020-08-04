@@ -14,11 +14,11 @@
         <label>NeedIt</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_58872_needit_needit</name>
-        <number_ref display_value="NEE">9d3e0445db920010fd722706ca961952</number_ref>
+        <number_ref display_value="NI">9d3e0445db920010fd722706ca961952</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">3c3196a7db310010fd722706ca9619a2</super_class>
+        <super_class display_value="Task" name="task">8f9a98a51b12101021547596cc4bcbc2</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
